@@ -1,5 +1,8 @@
 _repo: The-Egyptian-Conception-of-Immortality--13-The-Ingersoll-Lecture-1911_12255
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reisner, George Andrew
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4283'
     url: http://www.gutenberg.org/2009/agents/4283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12255#The-Egyptian-Conception-of-Immortality--13-The-Ingersoll-Lecture-1911
 gutenberg_bookshelf: Egypt
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
